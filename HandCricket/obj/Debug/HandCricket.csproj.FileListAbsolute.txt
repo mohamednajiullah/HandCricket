@@ -1,0 +1,12 @@
+c:\users\vim\documents\visual studio 2013\Projects\HandCricket\HandCricket\bin\Debug\HandCricket.exe.config
+c:\users\vim\documents\visual studio 2013\Projects\HandCricket\HandCricket\bin\Debug\HandCricket.exe
+c:\users\vim\documents\visual studio 2013\Projects\HandCricket\HandCricket\bin\Debug\HandCricket.pdb
+c:\users\vim\documents\visual studio 2013\Projects\HandCricket\HandCricket\obj\Debug\HandCricket.csprojResolveAssemblyReference.cache
+c:\users\vim\documents\visual studio 2013\Projects\HandCricket\HandCricket\obj\Debug\HandCricket.exe
+c:\users\vim\documents\visual studio 2013\Projects\HandCricket\HandCricket\obj\Debug\HandCricket.pdb
+C:\Users\VIM\Documents\Visual Studio 2013\Projects\HandCricket-Local\HandCricket\bin\Debug\HandCricket.exe.config
+C:\Users\VIM\Documents\Visual Studio 2013\Projects\HandCricket-Local\HandCricket\obj\Debug\HandCricket.exe
+C:\Users\VIM\Documents\Visual Studio 2013\Projects\HandCricket-Local\HandCricket\obj\Debug\HandCricket.pdb
+C:\Users\VIM\Documents\Visual Studio 2013\Projects\HandCricket-Local\HandCricket\bin\Debug\HandCricket.exe
+C:\Users\VIM\Documents\Visual Studio 2013\Projects\HandCricket-Local\HandCricket\bin\Debug\HandCricket.pdb
+C:\Users\VIM\Documents\Visual Studio 2013\Projects\HandCricket-Local\HandCricket\obj\Debug\HandCricket.csprojResolveAssemblyReference.cache
